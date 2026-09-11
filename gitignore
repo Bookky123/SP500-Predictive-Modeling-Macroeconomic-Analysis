@@ -1,0 +1,21 @@
+# data
+data/
+*.duckdb
+*.csv
+*.parquet
+temp_kaggle_data/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# models
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db

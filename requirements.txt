@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+pandas-datareader
+duckdb
+datasets
+yfinance
+xgboost
+lightgbm
+scikit-learn
+optuna
